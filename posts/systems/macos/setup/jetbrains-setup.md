@@ -250,4 +250,4 @@ To open a project at a specific path, open Terminal and copy-paste the following
 idea ~/projects/my-project
 ```
 
-[Go Back](step-01.md)
+[Go Back](step-01)

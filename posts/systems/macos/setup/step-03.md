@@ -16,7 +16,7 @@ tags:
 
 > [!NOTE]
 > **Prerequisites**
-> [Homebrew installation](step-00.md) must be completed.
+> [Homebrew installation](step-00) must be completed.
 
 ## Advice on Java Installation
 
@@ -71,4 +71,4 @@ OpenJDK 64-Bit Server VM Homebrew (build 21.x.x, mixed mode, sharing)
 
 All necessary tools are ready! Learn some tips for using macOS more efficiently.
 
-[Next Step: macOS Tips Collection](step-04.md)
+[Next Step: macOS Tips Collection](step-04)

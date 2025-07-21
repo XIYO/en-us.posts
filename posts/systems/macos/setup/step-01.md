@@ -18,7 +18,7 @@ tags:
 
 > [!NOTE]
 > **Prerequisites**
-> [Homebrew installation](step-00.md) must be completed before proceeding with this guide.
+> [Homebrew installation](step-00) must be completed before proceeding with this guide.
 
 ## Installing Essential Tools
 
@@ -87,12 +87,12 @@ brew install --cask font-pretendard
 
 ## Additional Setup
 
-- **Git & GitHub CLI** → [Git & GitHub Setup Guide](git-github-setup.md)
-- **JetBrains Toolbox** → [JetBrains Setup Guide](jetbrains-setup.md)
-- **iTerm2 + Oh My Zsh** → [Terminal Customization Guide](terminal-customization.md)
+- **Git & GitHub CLI** → [Git & GitHub Setup Guide](git-github-setup)
+- **JetBrains Toolbox** → [JetBrains Setup Guide](jetbrains-setup)
+- **iTerm2 + Oh My Zsh** → [Terminal Customization Guide](terminal-customization)
 
 ## Next Steps
 
 Essential tools installation is complete.
 
-[Next Step: Installing System Utilities](step-02.md)
+[Next Step: Installing System Utilities](step-02)

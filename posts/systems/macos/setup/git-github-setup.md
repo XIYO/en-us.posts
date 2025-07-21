@@ -17,7 +17,7 @@ tags:
 
 > [!NOTE]
 > **Prerequisites**
-> [Installing Essential Developer Tools](step-01.md) must be completed.
+> [Installing Essential Developer Tools](step-01) must be completed.
 
 ## Basic Git Configuration
 
@@ -286,4 +286,4 @@ gh pr create
 gh issue list
 ```
 
-[Go Back](step-01.md)
+[Go Back](step-01)

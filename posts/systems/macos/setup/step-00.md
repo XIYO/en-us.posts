@@ -115,4 +115,4 @@ brew --version
 
 Homebrew installation is complete.
 
-[Next Step: Installing Development Tools](step-01.md)
+[Next Step: Installing Development Tools](step-01)

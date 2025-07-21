@@ -46,7 +46,7 @@ Settings (Cmd+,) → Files & Links:
 - **Relative path to file**: ON
 
 > [!INFO]
-> Use standard markdown `[text](filename.md)` instead of wiki links `[[filename]]`.
+> Use standard markdown `[text](filename)` instead of wiki links `[[filename]]`.
 > Compatible with other markdown editors like GitHub and VS Code.
 
 ### Organize Attachments (assets folder)
@@ -115,7 +115,7 @@ After enabling Settings → Core plugins → Templates:
 Test with a new note:
 
 1. **Link test**:
-   - Create link with `Cmd + K` → Check if format is `[](test.md)`
+   - Create link with `Cmd + K` → Check if format is `[](test)`
 
 2. **Image test**:
    - Drag image → Check if saved in `assets` folder
@@ -199,8 +199,8 @@ Add in Settings → Hotkeys:
 ## Note-Taking Tips
 
 ### Utilize Links (Markdown Format)
-- `[Note Name](notename.md)`: Link to another note
-- `[Section Link](notename.md#heading)`: Link to specific section
+- `[Note Name](notename)`: Link to another note
+- `[Section Link](notename#heading)`: Link to specific section
 
 ### Tag System
 - `#project/frontend`: Use hierarchical tags
@@ -216,5 +216,5 @@ Create daily notes each morning to:
 ## Next Steps
 
 After basic setup:
-- [Markdown Basic Features](markdown-basics.md) - Mermaid, LaTeX, Callouts, etc.
-- [Sync Settings](step-01.md) - Git, Cloud, Obsidian Sync
+- [Markdown Basic Features](markdown-basics) - Mermaid, LaTeX, Callouts, etc.
+- [Sync Settings](step-01) - Git, Cloud, Obsidian Sync

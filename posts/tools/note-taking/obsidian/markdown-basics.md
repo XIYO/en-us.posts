@@ -231,7 +231,7 @@ ___
 ## Images and Links
 
 ### Links
-[Obsidian Official Site](https://obsidian.md)
+[Obsidian Official Site](https://obsidian)
 
 ### Images
 ![Alt text](image-url.png)
@@ -246,4 +246,4 @@ ___
 ## Next Steps
 
 After mastering markdown features:
-- [Sync Settings](step-01.md) - Use notes across multiple devices
+- [Sync Settings](step-01) - Use notes across multiple devices

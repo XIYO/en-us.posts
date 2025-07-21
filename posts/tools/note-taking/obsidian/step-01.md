@@ -26,7 +26,7 @@ tags: obsidian, sync, git, cloud, backup
 
 > [!IMPORTANT]
 > **Prerequisites Required**
-> Git and GitHub setup is required. Complete the [Git & GitHub Setup Guide](../mac-setup/git-github-setup.md) first.
+> Git and GitHub setup is required. Complete the [Git & GitHub Setup Guide](../mac-setup/git-github-setup) first.
 
 ### Install Obsidian Git Plugin
 
@@ -209,5 +209,5 @@ In Settings → Obsidian Git:
 ## Next Steps
 
 After sync setup is complete:
-- [Essential Plugin Installation](step-02.md)
-- [Advanced Settings](step-03.md)
+- [Essential Plugin Installation](step-02)
+- [Advanced Settings](step-03)

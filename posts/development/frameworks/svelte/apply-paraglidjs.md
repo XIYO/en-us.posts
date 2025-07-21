@@ -40,15 +40,15 @@ Untranslated sentences are output in the default language, so there are no issue
 It optimizes for SEO and browsers by additionally inserting language information into HTML documents.
 
 ```html
-<html lang="ko-KR" dir="ltr">
+<html lang="ko-kr" dir="ltr">
   <head>
-  <link rel="alternate" hreflang="ko-KR" href="http://localhost:5173/posts">
-  <link rel="alternate" hreflang="ja-JP" href="http://localhost:5173/ja-JP/posts">
-  <link rel="alternate" hreflang="en-US" href="http://localhost:5173/en-US/posts">
+  <link rel="alternate" hreflang="ko-kr" href="http://localhost:5173/posts">
+  <link rel="alternate" hreflang="ja-jp" href="http://localhost:5173/ja-jp/posts">
+  <link rel="alternate" hreflang="en-us" href="http://localhost:5173/en-us/posts">
   </head>
 ```
 
-> The `lang` attribute in `<html lang="ko-KR" dir="ltr">` is an attribute that browsers consider for enabling translation options. The `dir` attribute controls the direction of text.
+> The `lang` attribute in `<html lang="ko-kr" dir="ltr">` is an attribute that browsers consider for enabling translation options. The `dir` attribute controls the direction of text.
 
 ## How to Apply
 
@@ -104,9 +104,9 @@ To solve this problem, I modified it so that `ParaglideJS` doesn't include excep
 If you used the SvelteKit initializer, files for each language are created in `/messages/{lang}.json`.
 Initially, you can write in one language and provide additional translations using the editor.
 
-Adding sentences to `/messages/ko-KR.json`
+Adding sentences to `/messages/ko-kr.json`
 
-```json data-title="ko-KR.json"
+```json data-title="ko-kr.json"
 {
     "$schema": "https://inlang.com/schema/inlang-message-format",  
     "title": "XIYO's Hole",  

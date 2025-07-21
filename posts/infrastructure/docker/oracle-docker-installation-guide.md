@@ -13,7 +13,7 @@ tags:
 This guide explains how to quickly install Oracle Database Free Edition using Docker.
 
 > [!INFO]
-> For detailed information about Oracle Database concepts and editions, please refer to the [Oracle Database Concepts Guide](oracle-database-concepts.md).
+> For detailed information about Oracle Database concepts and editions, please refer to the [Oracle Database Concepts Guide](oracle-database-concepts).
 
 ## Prerequisites
 
@@ -33,7 +33,7 @@ This guide explains how to quickly install Oracle Database Free Edition using Do
 > Most Container Registries require login before downloading images.
 > However, Oracle allows downloading the Free Edition without login by using it as a "loss leader" product.
 > 
-> For more details about Container Registry, refer to the [Oracle Database Concepts Guide](oracle-database-concepts.md#what-is-container-registry).
+> For more details about Container Registry, refer to the [Oracle Database Concepts Guide](oracle-database-concepts).
 
 Download Oracle Database 23c Free, the latest free version for developers.
 
@@ -77,7 +77,7 @@ Explanation of each option in the command above:
 > 
 > Connection string example: `username/password@localhost:1521/FREEPDB1`
 > 
-> For Oracle core concepts like SID, Service Name, PDB, refer to the [Oracle Database Concepts Guide](oracle-database-concepts.md#oracle-core-concepts).
+> For Oracle core concepts like SID, Service Name, PDB, refer to the [Oracle Database Concepts Guide](oracle-database-concepts).
 
 
 
