@@ -31,7 +31,7 @@ If there are no issues with usage, you can ignore the warning message.
 
 ## PROBLEM
 
-![Shortcut Conflict Warning](/static/resources/2023-10-27-11-00-19.png)
+![Shortcut Conflict Warning](./assets/2023-10-27-11-00-19.png)
 
 A warning about a shortcut conflict has appeared.
 
@@ -39,7 +39,7 @@ A warning about a shortcut conflict has appeared.
 
 ### INTELLIJ
 
-![Check Shortcut Conflict](/static/resources/2023-10-27-11-10-04.png)
+![Check Shortcut Conflict](./assets/2023-10-27-11-10-04.png)
 
 By checking the *Keymap* through the *Modify Shortcuts* link, I found that the shortcut <kbd>⇧</kbd> + <kbd>⌘</kbd> + <kbd>A</kbd> is in conflict.
 
@@ -49,14 +49,14 @@ First, open the Settings app.
 
 0. **Settings Screen**:
 
-   ![How to Access Keyboard Shortcuts in Settings](/static/resources/2023-10-27-11-52-59.png)
+   ![How to Access Keyboard Shortcuts in Settings](./assets/2023-10-27-11-52-59.png)
 
    0. Click on the *Keyboard* menu
    1. Click on the *Keyboard Shortcuts* button
 
 1. **Keyboard Shortcuts Screen**:
 
-   ![Check Shortcut Settings in Sonoma](/static/resources/2023-10-27-11-59-56.png)
+   ![Check Shortcut Settings in Sonoma](./assets/2023-10-27-11-59-56.png)
 
    0. Click on the *Services* menu
    1. Click on the *Text* item
@@ -64,7 +64,7 @@ First, open the Settings app.
 
 ## WHAT IS *SEARCH MAN PAGE INDEX IN TERMINAL*?
 
-![Shortcut Execution Result](/static/resources/2023-10-27-12-08-57.png)
+![Shortcut Execution Result](./assets/2023-10-27-12-08-57.png)
 
 This feature is responsible for passing the selected text to the terminal as a manual option. \
 If the manual exists in the system, it will be displayed.

@@ -20,17 +20,17 @@ While using GitHub Actions, I experienced a gradual slowdown in build speed. To 
 
 ## Changes in Build Speed
 
-![Initial build speed was under 40 seconds](/static/resources/usging-cache-on-github-action-20240815232353052.png)
+![Initial build speed was under 40 seconds](./assets/usging-cache-on-github-action-20240815232353052.png)
 
 The initial build speed was quite fast, under 40 seconds. However, over time, the build time increased significantly, especially after adding the Mermaid parser to the Markdown files.
 
-![The slowed build speed seems to be approaching 1 minute and 30 seconds](/static/resources/usging-cache-on-github-action-20240815232537900.png)
+![The slowed build speed seems to be approaching 1 minute and 30 seconds](./assets/usging-cache-on-github-action-20240815232537900.png)
 
 This issue is not solely due to the Mermaid syntax. My blog uses Svelte for pre-rendering, which requires parsing all Markdown files during the initial build.
 
 Moreover, since I wanted the Markdown files to display correctly on GitHub without using front matter, I did not include metadata such as creation or modification dates. To compensate for this, I used the `git log` command to add that data, which increased CPU load and made performance improvement challenging. (Separating this into workers could enhance performance, but it's still a bit beyond my current skill level...)
 
-![Even just installing dependencies took 30 seconds](/static/resources/usging-cache-on-github-action-20240815233139668.png)
+![Even just installing dependencies took 30 seconds](./assets/usging-cache-on-github-action-20240815233139668.png)
 
 Ultimately, to optimize the build, I decided to focus on reducing package installation time.
 
@@ -138,9 +138,9 @@ In particular, I cached `playwright`, which was a major cause of the slowdown, m
 
 ## Changes in Build Speed
 
-![Optimized build speed is around 1 minute and 10 seconds...](/static/resources/usging-cache-on-github-action-20240816000140052.png)
+![Optimized build speed is around 1 minute and 10 seconds...](./assets/usging-cache-on-github-action-20240816000140052.png)
 
-![Internal speed does not exceed 50 seconds](/static/resources/usging-cache-on-github-action-20240816000251502.png)
+![Internal speed does not exceed 50 seconds](./assets/usging-cache-on-github-action-20240816000251502.png)
 
 While the build speed did not improve dramatically, I achieved a satisfactory result through appropriate optimization.
 

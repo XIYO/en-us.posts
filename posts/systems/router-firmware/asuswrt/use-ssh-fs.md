@@ -15,7 +15,7 @@ title: USE SSH FS
 ---
 # USE SSH FS
 
-![SSH FS connection screen in VS Code](/static/resources/2023-10-22-11-55-54.png)
+![SSH FS connection screen in VS Code](./assets/2023-10-22-11-55-54.png)
 
 In this guide, we will explore how to conveniently manage files using *SSH FS* in *VS Code*.
 
@@ -68,7 +68,7 @@ It is particularly useful in environments where you cannot install the server ve
 
 ## USAGE
 
-![SSH FS settings screen](/static/resources/2023-10-22-13-40-10.png)
+![SSH FS settings screen](./assets/2023-10-22-13-40-10.png)
 
 It requires the same connection information as *SSH*.
 

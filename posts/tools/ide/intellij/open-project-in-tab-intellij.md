@@ -24,7 +24,7 @@ description: Learn how to configure IntelliJ IDEA to always open projects in tab
 
 Learn how to configure IntelliJ IDEA to always open projects in tabs on macOS.
 
-![multiple_projects_in_tabs](/static/resources/f242f044157db312140297d1c9971de403b0af207ef3f77f2bf74a1c300440ec5f0d02e7aea059020dfb14c19fa93f3f5dcdfe94d007a5e2c218ee9afd0f74b4.png)
+![multiple_projects_in_tabs](./assets/f242f044157db312140297d1c9971de403b0af207ef3f77f2bf74a1c300440ec5f0d02e7aea059020dfb14c19fa93f3f5dcdfe94d007a5e2c218ee9afd0f74b4.png)
 
 > Projects opened in tabs
 
@@ -35,7 +35,7 @@ On macOS, you can configure multiple projects or documents to **open in tabs ins
 
 ## Settings to Open in Tabs
 
-![always_open_tabs](/static/resources/b8e84f65bef3200d9888d2bc90183f76ec8c4fe129e8c0396e169265fefaffb656f2641df0f2dae9c7f59cc9c062dee44d39093993ea06acf46699d903d126cf.png)
+![always_open_tabs](./assets/b8e84f65bef3200d9888d2bc90183f76ec8c4fe129e8c0396e169265fefaffb656f2641df0f2dae9c7f59cc9c062dee44d39093993ea06acf46699d903d126cf.png)
 
 > All applications will open in tabs.
 

@@ -28,7 +28,7 @@ To prevent such experiences from recurring, I attempted internationalization on 
 
 According to [Paraglide JS | inlang](https://inlang.com/m/gerre34r/library-inlang-paraglideJs), besides being lightweight, type-safe, and providing a VS Code extension, a convenient feature is the "translation editor provision".
 
-![Paraglide JS Editor](/static/resources/apply-paraglidjs-20240918153234469.png)
+![Paraglide JS Editor](./assets/apply-paraglidjs-20240918153234469.png)
 > You can provide translations through the editor even from outside without a development system.
 
 In early development, you can create quick work by writing only in Korean, and later work through the editor, which is quite convenient for collaboration. Especially, it provides "machine translation functionality", so you can quickly provide translations.
@@ -163,7 +163,7 @@ You can create and manage a separate component for changing languages.
 
 Now, just placing this selector where you want makes language switching work very easily.
 
-![Language selector applied](/static/resources/apply-paraglidjs-20240918161625634.png)
+![Language selector applied](./assets/apply-paraglidjs-20240918161625634.png)
 
 > I placed the language selector in the navigation.
 

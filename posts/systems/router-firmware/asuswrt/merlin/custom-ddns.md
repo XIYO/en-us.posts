@@ -41,7 +41,7 @@ We will change the existing DDNS settings.
 
 In the [DDNS settings](https://router.xiyo.dev/Advanced_ASUSDDNS_Content.asp), change the Server to Custom.
 
-![Change DDNS Options](/static/resources/custom-ddns-20240918105845255.png)
+![Change DDNS Options](./assets/custom-ddns-20240918105845255.png)
 
 In the DDNS settings under the WAN category, change the Server option to Custom.
 
@@ -54,7 +54,7 @@ Obtain a token from Cloudflare's [API Tokens page](https://dash.cloudflare.com/p
 
 After issuance, the result will be:
 
-![Token Issuance Result](/static/resources/custom-ddns-20240918105908541.png)
+![Token Issuance Result](./assets/custom-ddns-20240918105908541.png)
 
 ## SETUP INADYN
 

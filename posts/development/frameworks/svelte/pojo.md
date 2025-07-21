@@ -24,7 +24,7 @@ While pondering how to pre-parse and send it, I discovered the [remark-mermaidjs
 
 ## Problem
 
-![Mermaid results disappearing during hydration](/static/resources/record-2024-08-11-201239.gif)
+![Mermaid results disappearing during hydration](./assets/record-2024-08-11-201239.gif)
 
 However, a problem soon arose. As mentioned earlier, since Mermaid is a tool that operates in a browser, there was a discrepancy between the server-rendered results and the browser-rendered results during the hydration phase, causing the results to disappear.
 

@@ -25,7 +25,7 @@ Due to the need to reset the OS, I had to install a completely clean version of 
 
 I expected that the wireless LAN driver would be installed by default after the installation, but contrary to my expectations, I had to install it manually.
 
-![Wireless LAN Driver List](/static/resources/install-driver-for-lg-gram-20240826221737828.png)
+![Wireless LAN Driver List](./assets/install-driver-for-lg-gram-20240826221737828.png)
 
 > I downloaded the wireless LAN driver and installed it.
 
@@ -37,7 +37,7 @@ Even after running Windows Update through the network, the USB and sound drivers
 
 Ultimately, I was about to give up on installing the remaining drivers when I decided to check the [LG Download Center](https://www.lge.com/us/support/product-manuals) once more, and I discovered that there was a dedicated update tool...
 
-![Download Center Screen](/static/resources/install-driver-for-lg-gram-20240826222611325.png)
+![Download Center Screen](./assets/install-driver-for-lg-gram-20240826222611325.png)
 
 > I had overlooked the "LG Update Program" while searching for the model name, but it became visible upon a second look...
 
