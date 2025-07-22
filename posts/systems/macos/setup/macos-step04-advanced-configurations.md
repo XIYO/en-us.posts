@@ -1,5 +1,6 @@
 ---
-title: Advanced Configurations
+title: "macOS Tips Collection"
+description: "macOS tips, tricks, and advanced configuration for developers"
 authors:
   - XIYO
 dates:

@@ -1,5 +1,6 @@
 ---
-title: Programming Languages
+title: "Installing Programming Languages"
+description: "Set up Java and other programming language environments for development"
 authors:
   - XIYO
 dates:

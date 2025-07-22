@@ -1,5 +1,6 @@
 ---
-title: Essential Developer Tools
+title: "Installing Essential Developer Tools"
+description: "Install Git, Docker, VS Code, iTerm2, and other essential development tools for macOS"
 authors:
   - XIYO
 dates:

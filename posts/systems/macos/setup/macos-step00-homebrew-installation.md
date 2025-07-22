@@ -1,5 +1,6 @@
 ---
-title: Step 00
+title: "Mac Initial Setup Guide"
+description: "Install Homebrew package manager on Apple Silicon Mac - The essential first step for development environment setup"
 authors:
   - XIYO
 dates:

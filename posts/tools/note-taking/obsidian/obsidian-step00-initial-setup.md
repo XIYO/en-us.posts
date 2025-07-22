@@ -1,5 +1,6 @@
 ---
-title: Initial Setup
+title: "Obsidian Setup Guide"
+description: "Essential Obsidian settings and configuration for efficient note-taking"
 authors:
   - XIYO
 dates:

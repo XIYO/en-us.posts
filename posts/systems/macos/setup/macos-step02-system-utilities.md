@@ -1,5 +1,6 @@
 ---
-title: System Utilities
+title: "Installing System Utilities"
+description: "Install productivity tools and system utilities like Slack, Notion, Chrome, and Rectangle"
 authors:
   - XIYO
 dates:

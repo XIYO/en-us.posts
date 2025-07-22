@@ -1,5 +1,6 @@
 ---
-title: Sync Settings
+title: "Obsidian Sync Settings"
+description: "Configure Obsidian sync with Git, iCloud, or Obsidian Sync for multi-device access"
 authors:
   - XIYO
 dates:
