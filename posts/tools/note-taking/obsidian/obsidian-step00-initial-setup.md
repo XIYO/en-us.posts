@@ -1,5 +1,5 @@
 ---
-title: Step 00
+title: Initial Setup
 authors:
   - XIYO
 dates:
@@ -217,4 +217,4 @@ Create daily notes each morning to:
 
 After basic setup:
 - [Markdown Basic Features](markdown-basics) - Mermaid, LaTeX, Callouts, etc.
-- [Sync Settings](step-01) - Git, Cloud, Obsidian Sync
+- [Sync Settings](obsidian-step01-sync-settings) - Git, Cloud, Obsidian Sync

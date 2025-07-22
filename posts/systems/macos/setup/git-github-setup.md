@@ -17,7 +17,7 @@ tags:
 
 > [!NOTE]
 > **Prerequisites**
-> [Installing Essential Developer Tools](step-01) must be completed.
+> [Installing Essential Developer Tools](macos-step01-essential-developer-tools) must be completed.
 
 ## Basic Git Configuration
 
@@ -286,4 +286,4 @@ gh pr create
 gh issue list
 ```
 
-[Go Back](step-01)
+[Go Back](macos-step01-essential-developer-tools)

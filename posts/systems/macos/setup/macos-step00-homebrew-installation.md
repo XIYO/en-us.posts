@@ -115,4 +115,4 @@ brew --version
 
 Homebrew installation is complete.
 
-[Next Step: Installing Development Tools](step-01)
+[Next Step: Installing Development Tools](macos-step01-essential-developer-tools)

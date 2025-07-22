@@ -246,4 +246,4 @@ ___
 ## Next Steps
 
 After mastering markdown features:
-- [Sync Settings](step-01) - Use notes across multiple devices
+- [Sync Settings](sync-settings) - Use notes across multiple devices

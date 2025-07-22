@@ -1,5 +1,5 @@
 ---
-title: Step 01
+title: Essential Developer Tools
 authors:
   - XIYO
 dates:
@@ -18,7 +18,7 @@ tags:
 
 > [!NOTE]
 > **Prerequisites**
-> [Homebrew installation](step-00) must be completed before proceeding with this guide.
+> [Homebrew installation](macos-step00-homebrew-installation) must be completed before proceeding with this guide.
 
 ## Installing Essential Tools
 
@@ -95,4 +95,4 @@ brew install --cask font-pretendard
 
 Essential tools installation is complete.
 
-[Next Step: Installing System Utilities](step-02)
+[Next Step: Installing System Utilities](macos-step02-system-utilities)

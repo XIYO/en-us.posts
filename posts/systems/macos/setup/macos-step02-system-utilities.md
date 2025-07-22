@@ -1,5 +1,5 @@
 ---
-title: Step 02
+title: System Utilities
 authors:
   - XIYO
 dates:
@@ -18,7 +18,7 @@ tags:
 
 > [!NOTE]
 > **Prerequisites**
-> [Homebrew installation](step-00) must be completed before proceeding with this guide.
+> [Homebrew installation](macos-step00-homebrew-installation) must be completed before proceeding with this guide.
 
 ## Install All Productivity Tools at Once
 
@@ -108,4 +108,4 @@ Extension that allows you to save web pages directly to Obsidian.
 
 System utilities installation is complete. Next, set up development environments for programming languages.
 
-[Next Step: Installing Programming Languages](step-03)
+[Next Step: Installing Programming Languages](macos-step03-programming-languages)

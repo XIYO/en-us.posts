@@ -174,7 +174,7 @@ Essential shortcuts that maximize IntelliJ's productivity. Just learning these w
 > **D2Coding Nerd Font Pre-installation Check**
 >
 > D2Coding Nerd Font is a font that supports both Korean and developer icons.
-> Since it was already installed in step-01.md, just proceed with the settings.
+> Since it was already installed in essential-developer-tools.md, just proceed with the settings.
 
 ### Editor Font Settings
 
@@ -250,4 +250,4 @@ To open a project at a specific path, open Terminal and copy-paste the following
 idea ~/projects/my-project
 ```
 
-[Go Back](step-01)
+[Go Back](macos-step01-essential-developer-tools)

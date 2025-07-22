@@ -1,5 +1,5 @@
 ---
-title: Step 01
+title: Sync Settings
 authors:
   - XIYO
 dates:
@@ -26,7 +26,7 @@ tags: obsidian, sync, git, cloud, backup
 
 > [!IMPORTANT]
 > **Prerequisites Required**
-> Git and GitHub setup is required. Complete the [Git & GitHub Setup Guide](../mac-setup/git-github-setup) first.
+> Git and GitHub setup is required. Complete the [Git & GitHub Setup Guide](../../../systems/macos/setup/git-github-setup) first.
 
 ### Install Obsidian Git Plugin
 
@@ -209,5 +209,7 @@ In Settings → Obsidian Git:
 ## Next Steps
 
 After sync setup is complete:
+<!-- 
 - [Essential Plugin Installation](step-02)
 - [Advanced Settings](step-03)
+-->

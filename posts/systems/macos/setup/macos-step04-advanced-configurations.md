@@ -1,5 +1,5 @@
 ---
-title: Step 04
+title: Advanced Configurations
 authors:
   - XIYO
 dates:

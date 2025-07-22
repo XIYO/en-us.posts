@@ -17,7 +17,7 @@ tags:
 
 > [!NOTE]
 > **Prerequisites**
-> [Installing Essential Developer Tools](step-01) must be completed.
+> [Installing Essential Developer Tools](macos-step01-essential-developer-tools) must be completed.
 
 ## What is Oh My Zsh?
 
@@ -274,4 +274,4 @@ code ~/.p10k.zsh  # Open with VS Code
 > It's recommended to just use default settings at first. 
 > Try customizing after becoming familiar with the terminal!
 
-[Go Back](step-01)
+[Go Back](macos-step01-essential-developer-tools)
