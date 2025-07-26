@@ -1,9 +1,12 @@
 ---
-title: Karabiner Setup
+title: Karabiner-Elements Setup Guide
+description: >-
+  Karabiner-Elements is a powerful tool that allows you to freely customize
+  keyboard behavior on macOS. This guide covers the three most useful settings.
+dates:
+  - "2025-07-21T17:43:54.000Z"
 authors:
   - XIYO
-dates:
-  - Sat Jul 19 2025 09:00:00 GMT+0900 (대한민국 표준시)
 tags:
   - mac-setup
   - karabiner

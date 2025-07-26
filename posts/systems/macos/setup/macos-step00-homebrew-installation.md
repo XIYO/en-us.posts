@@ -1,10 +1,15 @@
 ---
-title: "Mac Initial Setup Guide"
-description: "Install Homebrew package manager on Apple Silicon Mac - The essential first step for development environment setup"
+title: Mac Initial Setup Guide
+description: >-
+  This guide is a development environment setup document for Apple Silicon Macs.
+  Setup methods for Intel Macs are not covered.
+dates:
+  - "2025-07-22T16:08:51.000Z"
+  - "2025-07-22T15:45:09.000Z"
+  - "2025-07-21T19:25:20.000Z"
+  - "2025-07-21T17:43:54.000Z"
 authors:
   - XIYO
-dates:
-  - Thu Jul 17 2025 09:00:00 GMT+0900 (대한민국 표준시)
 tags:
   - mac-setup
   - homebrew

@@ -1,21 +1,15 @@
 ---
+title: Static Initialization of Classes
+description: >-
+  Introducing the static initialization method used in the code that creates and
+  manages categories on my blog, and a case of improvement to better code.
+dates:
+  - "2025-07-21T16:56:54.000Z"
+  - "2025-07-21T16:32:54.000Z"
+  - "2025-07-13T06:54:45.000Z"
 authors:
   - XIYO
-  - XIYO
-  - XIYO
-  - XIYO
-dates:
-  - '2024-10-05T18:38+0900'
-  - '2024-10-05T10:47+0900'
-  - '2024-10-05T10:01+0900'
-  - '2024-10-03T23:30+0900'
-messages:
-  - ':memo: new post'
-  - ':memo: Modified sentences to flow more naturally'
-  - ':truck: Renamed to lowercase and hyphens'
-  - ':memo: new post'
-title: Static Initialization of Classes
-description: Introducing the static initialization method used in the code that creates and manages categories on my blog, and a case of improvement to better code.
+  - xiyo
 ---
 # Static Initialization of Classes
 

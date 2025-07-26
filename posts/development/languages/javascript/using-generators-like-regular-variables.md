@@ -1,36 +1,21 @@
 ---
+title: Using Generators Like Regular Variables
+description: In JavaScript, you can create iterable objects using generators.
+dates:
+  - "2025-07-21T16:56:54.000Z"
+  - "2025-07-21T16:32:54.000Z"
+  - "2025-06-15T06:10:59.000Z"
+  - "2024-09-08T03:40:36.000Z"
+  - "2024-09-05T14:19:14.000Z"
+  - "2024-09-03T14:20:38.000Z"
+  - "2024-09-01T11:51:06.000Z"
+  - "2024-08-22T22:18:51.000Z"
+  - "2024-08-22T21:39:49.000Z"
+  - "2024-08-22T19:02:50.000Z"
+  - "2024-08-22T09:47:30.000Z"
+  - "2024-08-22T09:45:28.000Z"
 authors:
   - XIYO
-  - XIYO
-  - XIYO
-  - XIYO
-  - XIYO
-  - XIYO
-  - XIYO
-  - XIYO
-  - XIYO
-dates:
-  - '2024-09-08T12:40+0900'
-  - '2024-09-05T23:19+0900'
-  - '2024-09-03T23:20+0900'
-  - '2024-09-01T20:51+0900'
-  - '2024-08-23T07:18+0900'
-  - '2024-08-23T06:39+0900'
-  - '2024-08-23T04:02+0900'
-  - '2024-08-22T18:47+0900'
-  - '2024-08-22T18:45+0900'
-messages:
-  - ':art: 로케일 코드 제거하고, 번역된 파일을 기존 처럼 /static/{locale} 구조로 저장'
-  - ':globe_with_meridians: 기존 국제화 방식을 제거하고 새로운 방식으로 번역본 추가'
-  - ':globe_with_meridians: translate'
-  - Paraglidejs (#35)
-  - ':pencil2: 오타 수정'
-  - ':fire: 테스트용 코드 삭제'
-  - ':art: run format'
-  - ':memo: 제목 변경'
-  - ':memo: 제너레이터 포스팅'
-title: Using Generators Like Regular Variables
-description: 'In JavaScript, you can create iterable objects using generators.'
 ---
 # Using Generators Like Regular Variables
 

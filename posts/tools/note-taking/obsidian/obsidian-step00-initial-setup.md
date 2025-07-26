@@ -1,10 +1,17 @@
 ---
-title: "Obsidian Setup Guide"
-description: "Essential Obsidian settings and configuration for efficient note-taking"
+title: Obsidian Setup Guide
+description: >-
+  Obsidian is a powerful markdown-based note-taking app. It saves your notes as
+  local files for permanent ownership and allows you to connect and manage
+  knowledge through links and graph views. It's optimized for organizing
+  development documentation, study notes, and ideas systematically.
+dates:
+  - "2025-07-22T16:08:51.000Z"
+  - "2025-07-22T15:45:09.000Z"
+  - "2025-07-21T19:25:20.000Z"
+  - "2025-07-21T17:43:54.000Z"
 authors:
   - XIYO
-dates:
-  - Thu Jul 17 2025 09:00:00 GMT+0900 (대한민국 표준시)
 tags: obsidian, settings, essential, first-setup
 ---
 

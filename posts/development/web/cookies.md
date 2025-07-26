@@ -1,22 +1,19 @@
 ---
 title: Cookie Transmission Scenario Analysis
-description: 'All cookies have the following common options:'
+description: >-
+  This document analyzes cookie transmission scenarios, organizing cookie
+  transmission status according to various SameSite settings and domain
+  attributes. This analysis is based on requests between `https://api.hello.dev`
+  and `https://hello.dev`.
+dates:
+  - "2025-07-21T17:43:54.000Z"
+  - "2025-07-21T16:32:54.000Z"
+  - "2025-07-13T06:54:45.000Z"
+  - "2025-06-15T13:04:31.000Z"
+  - "2025-06-15T13:01:45.000Z"
 authors:
   - XIYO
-  - XIYO
-  - XIYO
-  - XIYO
-dates:
-  - '2025-06-15T13:04:31.601Z'
-  - '2025-06-15T13:01:45.902Z'
-  - 2025-06-15T10:48+0900
-  - 2025-06-07T14:58+0900
-tags: []
-messages:
-  - '✨ Added cookie transmission scenario analysis content: Organized cookie transmission status based on SameSite settings and domain attributes'
-  - ✨ Added cookie transmission scenario analysis document
-  - \U0001F921
-  - 📝 Draft
+  - xiyo
 ---
 # Cookie Transmission Scenario Analysis
 

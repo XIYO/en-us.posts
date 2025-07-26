@@ -1,12 +1,11 @@
 ---
 title: Callout Test
-description: rehype-callouts Obsidian theme test
+dates:
+  - "2025-07-21T17:32:54.000Z"
 authors:
   - XIYO
-dates:
-  - '2025-07-20T12:00:00.000Z'
-created: '2025-07-20T12:00:00.000Z'
-modified: '2025-07-20T12:00:00.000Z'
+created: "2025-07-20T12:00:00.000Z"
+modified: "2025-07-20T12:00:00.000Z"
 ---
 
 # Callout Test

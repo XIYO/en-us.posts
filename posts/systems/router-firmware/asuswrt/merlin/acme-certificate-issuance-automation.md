@@ -1,24 +1,16 @@
 ---
+title: Automating ACME Certificate Issuance (ASUS AC88U Router)
+description: >-
+  I've installed Nginx on my AC88U router and set up SSL certificates, but the
+  manual certificate issuance process has been disorganized. Here's my complete
+  guide after finally organizing everything.
+dates:
+  - "2025-07-21T16:56:54.000Z"
+  - "2025-07-21T16:32:54.000Z"
+  - "2025-07-13T06:54:45.000Z"
 authors:
   - XIYO
-  - XIYO
-  - XIYO
-  - XIYO
-  - XIYO
-dates:
-  - '2025-03-09T22:09+0900'
-  - '2025-03-09T22:02+0900'
-  - '2025-03-09T20:42+0900'
-  - '2025-02-16T23:12+0900'
-  - '2025-02-16T23:11+0900'
-messages:
-  - ':memo: Add Cloudflare token issuance page link and modify script description'
-  - ':memo: Add double slash syntax'
-  - ':memo: Changed to make sense'
-  - ':art: improve clarity in ACME certificate issuance guide by refining language and formatting'
-  - ':art: add guide for automating ACME certificate issuance on ASUS AC88U router'
-title: Automating ACME Certificate Issuance (ASUS AC88U Router)
-description: I've installed Nginx on my AC88U router and set up SSL certificates, but the manual certificate issuance process has been disorganized. Here's my complete guide after finally organizing everything.
+  - xiyo
 ---
 # Automating ACME Certificate Issuance (ASUS AC88U Router)
 

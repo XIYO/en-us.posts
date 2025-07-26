@@ -1,13 +1,4 @@
 ---
-authors:
-  - XIYO
-  - XIYO
-dates:
-  - '2024-09-08T12:40+0900'
-  - '2024-09-05T23:19+0900'
-messages:
-  - ':art: 로케일 코드 제거하고, 번역된 파일을 기존 처럼 /static/{locale} 구조로 저장'
-  - ':globe_with_meridians: 기존 국제화 방식을 제거하고 새로운 방식으로 번역본 추가'
 title: Using Types in JavaScript
 description: >-
   When working on a project in JavaScript, it is common to encounter situations
@@ -15,6 +6,14 @@ description: >-
   what form the returned values will take. In such cases, it can be challenging
   to determine the correct usage without consulting the documentation, which can
   complicate development.
+dates:
+  - "2025-07-21T16:56:54.000Z"
+  - "2025-07-21T16:32:54.000Z"
+  - "2025-06-15T06:10:59.000Z"
+  - "2024-09-08T03:40:36.000Z"
+  - "2024-09-05T14:19:14.000Z"
+authors:
+  - XIYO
 ---
 # Using Types in JavaScript
 

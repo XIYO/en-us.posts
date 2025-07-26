@@ -1,24 +1,13 @@
 ---
-authors:
-  - XIYO
-  - XIYO
-  - XIYO
-  - XIYO
-  - XIYO
-dates:
-  - '2025-04-13T16:04+0900'
-  - '2025-04-13T15:51+0900'
-  - '2025-04-13T14:09+0900'
-  - '2025-04-13T14:08+0900'
-  - '2025-04-13T13:40+0900'
-messages:
-  - ':memo: Add description'
-  - ':memo: Add description'
-  - ':art: Fix image file path: Add slash to static resource path'
-  - ':art: Rename and update image file'
-  - ':memo: Making IntelliJ projects always open in tabs'
 title: How to Set IntelliJ Projects to Always Open in Tabs on macOS
 description: Learn how to configure IntelliJ IDEA to always open projects in tabs on macOS.
+dates:
+  - "2025-07-21T16:56:54.000Z"
+  - "2025-07-21T16:32:54.000Z"
+  - "2025-07-13T06:54:45.000Z"
+authors:
+  - XIYO
+  - xiyo
 ---
 # How to Set IntelliJ Projects to Always Open in Tabs on macOS
 

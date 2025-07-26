@@ -1,13 +1,15 @@
 ---
-category: blog
 title: Building a Git History-Based Frontmatter Automation System
-description: This document covers how to automatically manage frontmatter based on Git history in a Markdown-based blog.
-authors:
-  - xiyo
+description: >-
+  This document covers how to automatically manage frontmatter based on Git
+  history in a Markdown-based blog.
 dates:
-  - '2025-07-13T18:25:42+09:00'
-messages:
-  - 🌐 블로그 포스트 영어/일본어 번역 추가
+  - "2025-07-21T16:32:54.000Z"
+  - "2025-07-13T09:25:42.000Z"
+authors:
+  - XIYO
+  - xiyo
+category: blog
 ---
 # Building a Git History-Based Frontmatter Automation System
 

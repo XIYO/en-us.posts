@@ -1,30 +1,15 @@
 ---
+title: Svelte's Async Processing Support
+description: >-
+  Svelte 5 Async Processing Improvements: Comparison with existing SvelteKit
+  approaches.
+dates:
+  - "2025-07-21T16:56:54.000Z"
+  - "2025-07-21T16:32:54.000Z"
+  - "2025-07-13T06:54:45.000Z"
 authors:
   - XIYO
-  - XIYO
-  - XIYO
-  - XIYO
-  - XIYO
-  - XIYO
-  - XIYO
-dates:
-  - '2025-05-26T12:36+0900'
-  - '2025-05-26T12:35+0900'
-  - '2025-05-25T22:53+0900'
-  - '2025-05-25T22:37+0900'
-  - '2025-05-25T22:36+0900'
-  - '2025-05-25T22:34+0900'
-  - '2025-05-25T22:33+0900'
-messages:
-  - ':zap: Svelte 5 automatic parallelization optimization for async calls (performance improvement)'
-  - ':zap: Added automatic parallelization for async processing in Svelte 5 (performance optimization and developer convenience)'
-  - ':art: Modified and improved svelte-async.md document content'
-  - ':art: Modified title and added content to svelte-async.md document'
-  - ':art: Modified explanation about using await in <script> section in svelte-async.md document'
-  - ':memo: Async in Svelte'
-  - ':memo: Async in Svelte'
-title: Svelte's Async Processing Support
-description: 'Svelte 5 Async Processing Improvements: Comparison with existing SvelteKit approaches.'
+  - xiyo
 ---
 # Svelte's Async Processing Support
 

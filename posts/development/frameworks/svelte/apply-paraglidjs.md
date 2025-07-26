@@ -1,12 +1,16 @@
 ---
+title: Applying Paraglide JS
+description: >-
+  Sharing my experience of applying **Paraglide JS**, a new internationalization
+  library, to my project.
+dates:
+  - "2025-07-21T19:25:20.000Z"
+  - "2025-07-21T16:56:54.000Z"
+  - "2025-07-21T16:32:54.000Z"
+  - "2025-07-13T06:54:45.000Z"
 authors:
   - XIYO
-dates:
-  - '2024-09-18T17:12+0900'
-messages:
-  - ':memo: Applying Paraglide JS'
-title: Applying Paraglide JS
-description: 'Experience with the new internationalization library'
+  - xiyo
 ---
 # Applying Paraglide JS
 

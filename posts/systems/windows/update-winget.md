@@ -1,20 +1,18 @@
 ---
-authors:
-  - XIYO
-  - XIYO
-  - XIYO
-dates:
-  - '2024-09-18T11:16+0900'
-  - '2024-09-08T12:40+0900'
-  - '2024-09-05T23:19+0900'
-messages:
-  - ':truck: 이미지 경로를 전부 /static/resource 로 이동'
-  - ':art: 로케일 코드 제거하고, 번역된 파일을 기존 처럼 /static/{locale} 구조로 저장'
-  - ':globe_with_meridians: 기존 국제화 방식을 제거하고 새로운 방식으로 번역본 추가'
 title: How to Fix WinGet Execution Errors
 description: >-
   I recently reinstalled Windows because my computer was running slow. However,
-  when I tried to install packages using the
+  when I tried to install packages using the `winget` command, I encountered an
+  issue where it wouldn't even execute.
+dates:
+  - "2025-07-21T16:56:54.000Z"
+  - "2025-07-21T16:32:54.000Z"
+  - "2025-06-15T06:10:59.000Z"
+  - "2024-09-18T02:16:48.000Z"
+  - "2024-09-08T03:40:36.000Z"
+  - "2024-09-05T14:19:14.000Z"
+authors:
+  - XIYO
 ---
 # How to Fix WinGet Execution Errors
 

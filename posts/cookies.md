@@ -1,21 +1,18 @@
 ---
+title: Cookie Transmission Scenario Analysis
+description: >-
+  This document analyzes cookie transmission scenarios and organizes whether
+  cookies are transmitted based on various SameSite settings and domain
+  attributes. This analysis is based on requests between `https://api.hello.dev`
+  and `https://hello.dev`.
+dates:
+  - "2025-07-21T16:32:54.000Z"
+  - "2025-07-13T06:54:45.000Z"
+  - "2025-06-15T13:04:31.000Z"
+  - "2025-06-15T13:01:45.000Z"
 authors:
   - XIYO
-  - XIYO
-  - XIYO
-  - XIYO
-dates:
-  - "2025-06-15T13:04:31.601Z"
-  - "2025-06-15T13:01:45.902Z"
-  - "2025-06-15T10:48+0900"
-  - "2025-06-07T14:58+0900"
-messages:
-  - "✨ Add cookie transmission scenario analysis document content: Organize cookie transmission based on SameSite settings and domain attributes"
-  - "✨ Add cookie transmission scenario analysis document"
-  - 🤡
-  - "📝 Draft"
-title: "Cookie Transmission Scenario Analysis"
-description: "All cookies have the following common options:"
+  - xiyo
 ---
 # Cookie Transmission Scenario Analysis
 

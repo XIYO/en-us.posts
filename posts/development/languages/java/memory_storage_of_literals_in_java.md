@@ -1,13 +1,18 @@
 ---
-authors:
-  - XIYO
-dates:
-  - '2024-10-05T22:08+0900'
-messages:
-  - ':memo: new post'
 title: Memory Storage of Literals
 description: >-
-  Literals are fixed values directly assigned to variables in programming languages. This article explores how Java literals are stored and managed in memory.
+  Literals are fixed values directly assigned to variables in programming
+  languages. This article explores how Java literals are stored and managed in
+  memory.
+dates:
+  - "2025-07-21T16:56:54.000Z"
+  - "2025-07-21T16:32:54.000Z"
+  - "2025-07-13T06:54:45.000Z"
+  - "2025-06-15T06:10:59.000Z"
+  - "2024-10-05T13:08:15.000Z"
+authors:
+  - XIYO
+  - xiyo
 ---
 # Memory Storage of Literals
 

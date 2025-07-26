@@ -1,9 +1,11 @@
 ---
-title: Git Github Setup
+title: Git & GitHub Setup
+dates:
+  - "2025-07-22T15:45:09.000Z"
+  - "2025-07-21T19:25:20.000Z"
+  - "2025-07-21T17:43:54.000Z"
 authors:
   - XIYO
-dates:
-  - Thu Jul 17 2025 09:00:00 GMT+0900 (대한민국 표준시)
 tags:
   - mac-setup
   - git

@@ -1,12 +1,13 @@
 ---
-authors:
-  - xiyo
-dates:
-  - '2024-12-11T12:33+0900'
-messages:
-  - ':memo: Iterator draft'
 title: Iterator
 description: Defines how to traverse a collection
+dates:
+  - "2025-07-21T16:56:54.000Z"
+  - "2025-07-21T16:32:54.000Z"
+  - "2025-07-13T06:54:45.000Z"
+authors:
+  - XIYO
+  - xiyo
 ---
 # Iterator
 

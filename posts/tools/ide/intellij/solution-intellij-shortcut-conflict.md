@@ -1,18 +1,15 @@
 ---
+title: SOLUTION INTELLIJ SHORTCUT CONFLICT
+description: This document explains how to resolve shortcut conflicts in *IntelliJ*.
+dates:
+  - "2025-07-21T16:56:54.000Z"
+  - "2025-07-21T16:32:54.000Z"
+  - "2025-06-15T06:10:59.000Z"
+  - "2024-09-10T11:23:42.000Z"
+  - "2024-09-08T03:40:36.000Z"
+  - "2024-09-05T14:19:14.000Z"
 authors:
   - XIYO
-  - XIYO
-  - XIYO
-dates:
-  - '2024-09-10T20:23+0900'
-  - '2024-09-08T12:40+0900'
-  - '2024-09-05T23:19+0900'
-messages:
-  - ':art: 리소스 경로를 규격에 맞게 통일'
-  - ':art: 로케일 코드 제거하고, 번역된 파일을 기존 처럼 /static/{locale} 구조로 저장'
-  - ':globe_with_meridians: 기존 국제화 방식을 제거하고 새로운 방식으로 번역본 추가'
-title: SOLUTION INTELLIJ SHORTCUT CONFLICT
-description: 'This document explains how to resolve shortcut conflicts in '
 ---
 # SOLUTION INTELLIJ SHORTCUT CONFLICT
 

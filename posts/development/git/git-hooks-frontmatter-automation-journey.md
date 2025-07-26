@@ -1,3 +1,10 @@
+---
+title: Journey to Automating Markdown Frontmatter with Git Hooks
+dates:
+  - "2025-07-21T17:43:54.000Z"
+authors:
+  - XIYO
+---
 # Journey to Automating Markdown Frontmatter with Git Hooks
 
 ## Beginning: The Problem Starts - Limitations of Pre-commit Hook
