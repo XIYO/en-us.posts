@@ -1,10 +1,5 @@
 ---
 title: Installing Essential Developer Tools
-dates:
-  - "2025-07-22T16:08:51.000Z"
-  - "2025-07-22T15:45:09.000Z"
-  - "2025-07-21T19:25:20.000Z"
-  - "2025-07-21T17:43:54.000Z"
 authors:
   - XIYO
 tags:
@@ -15,7 +10,8 @@ tags:
   - vscode
   - iterm2
   - jetbrains
-lastModified: 2025-07-26T11:55:37+09:00
+lastModified: 2025-07-27T21:08:36+09:00
+published: 2025-07-23T00:45:09+09:00
 ---
 
 # Installing Essential Developer Tools

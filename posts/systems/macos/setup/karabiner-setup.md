@@ -3,8 +3,6 @@ title: Karabiner-Elements Setup Guide
 description: >-
   Karabiner-Elements is a powerful tool that allows you to freely customize
   keyboard behavior on macOS. This guide covers the three most useful settings.
-dates:
-  - "2025-07-21T17:43:54.000Z"
 authors:
   - XIYO
 tags:
@@ -12,7 +10,8 @@ tags:
   - karabiner
   - keyboard
   - productivity
-lastModified: 2025-07-26T11:55:37+09:00
+lastModified: 2025-07-27T21:08:36+09:00
+published: 2025-07-22T02:44:08+09:00
 ---
 
 # Karabiner-Elements Setup Guide

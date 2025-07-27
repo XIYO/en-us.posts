@@ -3,14 +3,12 @@ title: Building a Git History-Based Frontmatter Automation System
 description: >-
   This document covers how to automatically manage frontmatter based on Git
   history in a Markdown-based blog.
-dates:
-  - "2025-07-21T16:32:54.000Z"
-  - "2025-07-13T09:25:42.000Z"
 authors:
   - XIYO
   - xiyo
 category: blog
-lastModified: 2025-07-26T11:55:37+09:00
+lastModified: 2025-07-27T21:08:36+09:00
+published: 2025-07-22T01:32:54+09:00
 ---
 # Building a Git History-Based Frontmatter Automation System
 
@@ -205,7 +203,8 @@ title: My Post
 category: blog        # This shouldn't disappear...
 tags: [git, automation]  # This too...
 featured: true        # This is important too...
-lastModified: 2025-07-26T11:55:37+09:00
+lastModified: 2025-07-27T21:08:36+09:00
+published: 2025-07-22T01:32:54+09:00
 ---
 ```
 
@@ -251,9 +250,8 @@ title: Manually copy-paste
 description: Also manually written
 authors:
   - Uh... what was my GitHub ID?
-dates:
-  - '2025-01-... which day was it?'
-lastModified: 2025-07-26T11:55:37+09:00
+lastModified: 2025-07-27T21:08:36+09:00
+published: 2025-07-22T01:32:54+09:00
 ---
 ```
 
@@ -273,12 +271,11 @@ title: Building a Git History-Based Frontmatter Automation System
 description: "Forgot to update the date again..." Friday 4 PM...
 authors:
   - xiyo
-dates:
-  - '2025-07-13T19:24:00+09:00'
 messages:
   - 📝 Write blog post
 category: blog  # This stays as I set it
-lastModified: 2025-07-26T11:55:37+09:00
+lastModified: 2025-07-27T21:08:36+09:00
+published: 2025-07-22T01:32:54+09:00
 ---
 ```
 

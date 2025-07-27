@@ -1,9 +1,5 @@
 ---
 title: macOS Tips Collection
-dates:
-  - "2025-07-22T16:08:51.000Z"
-  - "2025-07-22T15:45:09.000Z"
-  - "2025-07-21T17:43:54.000Z"
 authors:
   - XIYO
 tags:
@@ -13,7 +9,8 @@ tags:
   - productivity
   - screenshot
   - spotlight
-lastModified: 2025-07-26T11:55:37+09:00
+lastModified: 2025-07-27T21:08:36+09:00
+published: 2025-07-23T00:45:09+09:00
 ---
 
 # macOS Tips Collection

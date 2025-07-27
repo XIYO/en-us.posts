@@ -3,14 +3,11 @@ title: Static Initialization of Classes
 description: >-
   Introducing the static initialization method used in the code that creates and
   manages categories on my blog, and a case of improvement to better code.
-dates:
-  - "2025-07-21T16:56:54.000Z"
-  - "2025-07-21T16:32:54.000Z"
-  - "2025-07-13T06:54:45.000Z"
 authors:
   - XIYO
   - xiyo
-lastModified: 2025-07-26T11:55:37+09:00
+lastModified: 2025-07-27T21:08:36+09:00
+published: 2025-07-22T01:56:54+09:00
 ---
 # Static Initialization of Classes
 

@@ -4,14 +4,11 @@ description: >-
   I've installed Nginx on my AC88U router and set up SSL certificates, but the
   manual certificate issuance process has been disorganized. Here's my complete
   guide after finally organizing everything.
-dates:
-  - "2025-07-21T16:56:54.000Z"
-  - "2025-07-21T16:32:54.000Z"
-  - "2025-07-13T06:54:45.000Z"
 authors:
   - XIYO
   - xiyo
-lastModified: 2025-07-26T11:55:37+09:00
+lastModified: 2025-07-27T21:08:36+09:00
+published: 2025-07-22T01:56:54+09:00
 ---
 # Automating ACME Certificate Issuance (ASUS AC88U Router)
 

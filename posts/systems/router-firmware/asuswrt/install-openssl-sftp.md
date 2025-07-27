@@ -1,15 +1,10 @@
 ---
 title: INSTALL OPENSSL AND SFTP ON ASUSWRT
 description: This document explains how to add SFTP functionality to `Dropbear`.
-dates:
-  - "2025-07-21T16:56:54.000Z"
-  - "2025-07-21T16:32:54.000Z"
-  - "2025-06-15T06:10:59.000Z"
-  - "2024-09-08T03:40:36.000Z"
-  - "2024-09-05T14:19:14.000Z"
 authors:
   - XIYO
-lastModified: 2025-07-26T11:55:37+09:00
+lastModified: 2025-07-27T21:08:36+09:00
+published: 2025-07-22T01:56:54+09:00
 ---
 # INSTALL OPENSSL AND SFTP ON ASUSWRT
 

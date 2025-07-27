@@ -1,12 +1,11 @@
 ---
 title: Callout Test
-dates:
-  - "2025-07-21T17:32:54.000Z"
 authors:
   - XIYO
 created: "2025-07-20T12:00:00.000Z"
 modified: "2025-07-20T12:00:00.000Z"
-lastModified: 2025-07-26T11:55:37+09:00
+lastModified: 2025-07-27T21:08:36+09:00
+published: 2025-07-22T02:32:54+09:00
 ---
 
 # Callout Test

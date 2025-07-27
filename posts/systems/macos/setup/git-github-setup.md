@@ -1,9 +1,5 @@
 ---
 title: Git & GitHub Setup
-dates:
-  - "2025-07-22T15:45:09.000Z"
-  - "2025-07-21T19:25:20.000Z"
-  - "2025-07-21T17:43:54.000Z"
 authors:
   - XIYO
 tags:
@@ -13,7 +9,8 @@ tags:
   - version-control
   - ssh
   - github-cli
-lastModified: 2025-07-26T11:55:37+09:00
+lastModified: 2025-07-27T21:08:36+09:00
+published: 2025-07-22T02:44:08+09:00
 ---
 
 # Git & GitHub Setup

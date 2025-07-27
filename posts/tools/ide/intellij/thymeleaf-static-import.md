@@ -3,16 +3,10 @@ title: Resolving Static Resource Recognition Issues in IntelliJ for HTML
 description: >-
   This guide addresses the issue of IntelliJ not recognizing JavaScript files as
   static resources in the HTML of a Spring Boot project.
-dates:
-  - "2025-07-21T16:56:54.000Z"
-  - "2025-07-21T16:32:54.000Z"
-  - "2025-06-15T06:10:59.000Z"
-  - "2024-09-10T11:23:42.000Z"
-  - "2024-09-08T03:40:36.000Z"
-  - "2024-09-05T14:19:14.000Z"
 authors:
   - XIYO
-lastModified: 2025-07-26T11:55:37+09:00
+lastModified: 2025-07-27T21:08:36+09:00
+published: 2025-07-22T01:56:54+09:00
 ---
 # Resolving Static Resource Recognition Issues in IntelliJ for HTML
 
