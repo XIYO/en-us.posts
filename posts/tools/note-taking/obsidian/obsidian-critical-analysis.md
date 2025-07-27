@@ -8,7 +8,7 @@ tags:
   - productivity
   - tools
   - critical-review
-published: 2025-07-27
+published: 2025-07-26
 ---
 
 # The Reality of Obsidian: A Critical Analysis of an Overhyped Markdown Editor
