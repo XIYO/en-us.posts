@@ -9,6 +9,7 @@ tags:
   - tools
   - critical-review
 published: 2025-07-26
+lastModified: 2025-07-27T17:17:12+09:00
 ---
 
 # The Reality of Obsidian: A Critical Analysis of an Overhyped Markdown Editor

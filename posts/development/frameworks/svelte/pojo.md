@@ -11,6 +11,7 @@ dates:
   - "2024-09-05T14:19:14.000Z"
 authors:
   - XIYO
+lastModified: 2025-07-26T11:55:37+09:00
 ---
 # Svelte Development Diary 1, POJO
 

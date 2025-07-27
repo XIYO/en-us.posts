@@ -11,6 +11,7 @@ tags:
   - Productivity
   - Note-taking
   - Knowledge Management
+lastModified: 2025-07-27T17:13:48+09:00
 ---
 
 # Obsidian Sync Guide

@@ -4,6 +4,7 @@ dates:
   - "2025-07-21T17:43:54.000Z"
 authors:
   - XIYO
+lastModified: 2025-07-26T11:55:37+09:00
 ---
 # Journey to Automating Markdown Frontmatter with Git Hooks
 
@@ -204,6 +205,7 @@ messages:
   - '✨ Add new feature'  # Automatically included!
 created: '2025-07-20T09:40:48.024Z'
 modified: '2025-07-20T09:40:48.024Z'
+lastModified: 2025-07-26T11:55:37+09:00
 ---
 
 # New Feature

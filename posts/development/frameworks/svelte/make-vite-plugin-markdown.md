@@ -13,6 +13,7 @@ dates:
   - "2024-08-13T12:22:36.000Z"
 authors:
   - XIYO
+lastModified: 2025-07-26T11:55:37+09:00
 ---
 # Creating a Markdown Parser Plugin
 

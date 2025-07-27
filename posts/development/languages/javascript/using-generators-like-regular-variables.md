@@ -16,6 +16,7 @@ dates:
   - "2024-08-22T09:45:28.000Z"
 authors:
   - XIYO
+lastModified: 2025-07-26T11:55:37+09:00
 ---
 # Using Generators Like Regular Variables
 

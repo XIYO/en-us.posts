@@ -15,6 +15,7 @@ tags:
   - vscode
   - iterm2
   - jetbrains
+lastModified: 2025-07-26T11:55:37+09:00
 ---
 
 # Installing Essential Developer Tools

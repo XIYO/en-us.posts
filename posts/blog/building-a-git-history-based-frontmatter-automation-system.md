@@ -10,6 +10,7 @@ authors:
   - XIYO
   - xiyo
 category: blog
+lastModified: 2025-07-26T11:55:37+09:00
 ---
 # Building a Git History-Based Frontmatter Automation System
 
@@ -204,6 +205,7 @@ title: My Post
 category: blog        # This shouldn't disappear...
 tags: [git, automation]  # This too...
 featured: true        # This is important too...
+lastModified: 2025-07-26T11:55:37+09:00
 ---
 ```
 
@@ -251,6 +253,7 @@ authors:
   - Uh... what was my GitHub ID?
 dates:
   - '2025-01-... which day was it?'
+lastModified: 2025-07-26T11:55:37+09:00
 ---
 ```
 
@@ -275,6 +278,7 @@ dates:
 messages:
   - 📝 Write blog post
 category: blog  # This stays as I set it
+lastModified: 2025-07-26T11:55:37+09:00
 ---
 ```
 

@@ -11,6 +11,7 @@ dates:
 authors:
   - XIYO
   - xiyo
+lastModified: 2025-07-26T11:55:37+09:00
 ---
 # Applying Paraglide JS
 

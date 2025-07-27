@@ -11,6 +11,7 @@ dates:
 authors:
   - XIYO
   - xiyo
+lastModified: 2025-07-26T11:55:37+09:00
 ---
 # Automating ACME Certificate Issuance (ASUS AC88U Router)
 

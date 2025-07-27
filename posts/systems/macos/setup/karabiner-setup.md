@@ -12,6 +12,7 @@ tags:
   - karabiner
   - keyboard
   - productivity
+lastModified: 2025-07-26T11:55:37+09:00
 ---
 
 # Karabiner-Elements Setup Guide

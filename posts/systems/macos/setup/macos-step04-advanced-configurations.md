@@ -13,6 +13,7 @@ tags:
   - productivity
   - screenshot
   - spotlight
+lastModified: 2025-07-26T11:55:37+09:00
 ---
 
 # macOS Tips Collection

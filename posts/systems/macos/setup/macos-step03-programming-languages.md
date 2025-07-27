@@ -13,6 +13,7 @@ tags:
   - openjdk
   - programming-languages
   - intellij
+lastModified: 2025-07-26T11:55:37+09:00
 ---
 
 # Installing Programming Languages

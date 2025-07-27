@@ -13,6 +13,7 @@ tags:
   - powerlevel10k
   - iterm2
   - zsh
+lastModified: 2025-07-26T11:55:37+09:00
 ---
 
 # Terminal Customization Guide
