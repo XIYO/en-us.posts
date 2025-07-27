@@ -1,8 +1,8 @@
 ---
 title: "The Birth and Evolution of Semantic Versioning: The Philosophy of Software Version Management"
 description: "From the chaotic history of version management before semantic versioning to the current differences in versioning culture across platforms, exploring version management strategies from conceptual and historical perspectives"
-published: 2025-01-27
-lastModified: 2025-07-27T14:15:44Z
+published: 2025-07-27T00:00:00Z
+lastModified: 2025-07-27T14:28:23Z
 authors:
   - XIYO
 ---
