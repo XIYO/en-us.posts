@@ -2,7 +2,7 @@
 title: "Git Checkout vs Switch: Why Did We Need New Commands?"
 description: "An in-depth analysis of the background behind introducing switch and restore commands in Git 2.23, their differences from checkout, and why IntelliJ still sticks to checkout"
 published: 2025-07-28T00:00:00Z
-lastModified: 2025-07-28T02:57:53Z
+lastModified: 2025-07-28T03:08:16Z
 authors:
   - XIYO
 ---
@@ -207,6 +207,26 @@ The Git development team's position is clear: **"Checkout is not deprecated and 
 - **Era of coexistence**: checkout, switch, and restore will all continue to be supported
 - **Gradual transition**: New users will learn switch/restore
 - **Tool evolution**: IDEs and GUI tools will gradually adapt
+
+### The Harsh Reality: Limited Adoption of Switch
+
+Let's be honest: it's been 5 years since Git 2.23 was released, but the adoption rate of `switch` and `restore` is disappointingly low.
+
+**The State of Education**
+- Most Git tutorials and courses still only teach `checkout`
+- Bootcamps, university courses, and online tutorials are all `checkout`-centric
+- The majority of Stack Overflow answers use `checkout`
+
+**The Reality in the Field**
+- Even senior developers often don't know `switch` exists
+- Corporate documentation and guidelines are written based on `checkout`
+- CI/CD scripts and automation tools all use `checkout`
+
+**Why Did This Happen?**
+- **The Power of Inertia**: Why change something that already works?
+- **Cognitive Load**: It's easier to stick with what you know than learn new commands
+- **Network Effects**: Everyone uses `checkout`, so I use `checkout`
+- **Lack of Tool Support**: Major IDEs and GUI tools remain `checkout`-centric
 
 ## Conclusion: Toward Better Git
 
