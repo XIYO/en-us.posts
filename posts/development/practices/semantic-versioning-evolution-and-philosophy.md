@@ -2,9 +2,39 @@
 title: "The Birth and Evolution of Semantic Versioning: The Philosophy of Software Version Management"
 description: "From the chaotic history of version management before semantic versioning to the current differences in versioning culture across platforms, exploring version management strategies from conceptual and historical perspectives"
 published: 2025-07-27T00:00:00Z
-lastModified: 2025-07-27T14:28:23Z
+lastModified: 2025-07-30T13:59:56Z
 authors:
   - XIYO
+tags:
+  - semantic-versioning
+  - semver
+  - version-control
+  - software-versioning
+  - dependency-management
+  - package-management
+  - npm
+  - maven
+  - pip
+  - pypi
+  - rubygems
+  - cargo
+  - go-modules
+  - best-practices
+  - breaking-changes
+  - backward-compatibility
+  - api-versioning
+  - release-management
+  - pre-release
+  - alpha
+  - beta
+  - release-candidate
+  - snapshot
+  - calver
+  - pep-440
+  - dependency-hell
+  - software-development
+  - version-management
+  - software-architecture
 ---
 
 # The Birth and Evolution of Semantic Versioning: The Philosophy of Software Version Management
